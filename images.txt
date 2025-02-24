@@ -3,4 +3,4 @@
 #xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 stilleshan/frps:latest
---platform=linux/arm64 stilleshan/frpsc:latest
+--platform=linux/arm64 stilleshan/frpc:latest
